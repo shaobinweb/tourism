@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>+</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="任务中心备份-3" transform="translate(-287.000000, -157.000000)" fill="#FFFFFF">
+            <g id="编组-3" transform="translate(0.000000, 138.000000)">
+                <g id="编组-3备份" transform="translate(287.000000, 16.000000)">
+                    <g id="+" transform="translate(0.000000, 3.000000)">
+                        <rect id="矩形" x="0" y="5" width="14" height="4" rx="2"></rect>
+                        <path d="M2,5 L12,5 C13.1045695,5 14,5.8954305 14,7 C14,8.1045695 13.1045695,9 12,9 L2,9 C0.8954305,9 1.3527075e-16,8.1045695 0,7 C-1.3527075e-16,5.8954305 0.8954305,5 2,5 Z" id="矩形" transform="translate(7.000000, 7.000000) rotate(-270.000000) translate(-7.000000, -7.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

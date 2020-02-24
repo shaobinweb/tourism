@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="376px" height="256px" viewBox="0 0 376 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M376,0 L376,214 L0,214 L0,0 L0.756261056,0.000606632681 C3.42072879,10.3516621 12.8171819,18 24,18 L24,18 L351,18 C362.182818,18 371.579271,10.3516621 374.243739,0.000606632681 L376,0 Z" id="path-1"/>
+        <filter x="-5.3%" y="-11.2%" width="110.6%" height="118.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.176470588   0 0 0 0 0.117647059  0 0 0 0.499153191 0" type="matrix" in="shadowBlurOuter1"/>
+        </filter>
+    </defs>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-30" transform="translate(0.000000, 1.000000)">
+            <g id="会员覆盖层备份">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"/>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"/>
+            </g>
+            <rect id="矩形" fill="#FFFFFF" x="0" y="214" width="375" height="42"/>
+        </g>
+    </g>
+</svg>
